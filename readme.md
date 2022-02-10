@@ -22,11 +22,13 @@ Although not strictly required, using a large monitor or preferably even a secon
 All the sessions will be recorded, and made available on a private video hosting website. 
 All materials will be shared via GitHub..
 
-The course will take place online using Zoom on **Wednesday 2 March, 2022** at:
+The course will take place online using Zoom on **Wednesday 2 March, 2022** at (UK local time):
 
 * 9am-11am
 * 11:30am-1:30pm
 * 2pm-4pm
+
+During each two hour session, we will take a 5 minute break after one hour.
 
 ## Assumed quantitative knowledge
 

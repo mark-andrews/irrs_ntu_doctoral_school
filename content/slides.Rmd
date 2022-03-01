@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to R and RStudio"
 author: "Mark Andrews, Department of Psychology, Nottingham Trent University"
-output: html_document
+output: ioslides_presentation
 ---
 
 

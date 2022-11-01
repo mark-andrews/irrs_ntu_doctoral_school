@@ -38,10 +38,8 @@ be accomplished with R is immense.
 * Built into R are virtually the entire repertoire
   of widely known and used statistical methods. 
 
-* Also built in to R is an extensive graphics library.
-
 * R has a vast set of add-on or contributed
-  packages. There are presently 
+  packages. There are presently (`r format(Sys.Date(), "%d %h, %Y")`) 
   `r nrow(available_packages)` additional contributed
   packages.  
   
@@ -49,8 +47,7 @@ be accomplished with R is immense.
   manipulate and perform calculations on data.  
 
 * The R programming language itself can be extended by interfacing with other
-  programming languages like C, C++, Fortran, Python, and high performance computing or big
-  data tools like Hadoop, Spark, SQL. 
+  programming languages (e.g. C/C++, Python, Spark, SQL). 
 
 ## R: Open source software
 
